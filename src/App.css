@@ -1,0 +1,7 @@
+div {
+  font-family: "Oswald", sans-serif;
+}
+#image-div{
+ width: 80rem;
+ max-width: -50px;
+}
